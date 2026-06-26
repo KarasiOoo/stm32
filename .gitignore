@@ -1,0 +1,19 @@
+# Workspace IDE (per-machine, per-workspace)
+**/.metadata/
+
+# Build output
+**/Debug/
+**/Release/
+
+# Eclipse / CubeIDE temp
+**/RemoteSystemsTempFiles/
+**/.Trash*/
+*.launch.bak
+
+# Lock / temp files
+*.lck
+~*.lck
+
+# Excluded workspaces / archives
+/G030old/
+/workspace_1.17.0/
