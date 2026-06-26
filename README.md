@@ -2,12 +2,10 @@
 
 Repozytorium projektów bare-metal dla mikrokontrolerów STM32, tworzonych w **STM32CubeIDE**.
 
-Kod źródłowy jest wersjonowany bezpośrednio w katalogu workspace IDE (`STM32CubeIDE`).
-
 ## Struktura
 
 ```
-STM32CubeIDE/
+STM32/
 ├── G030/                  # STM32G0
 │   ├── ws2811_v3/
 │   ├── clear/
